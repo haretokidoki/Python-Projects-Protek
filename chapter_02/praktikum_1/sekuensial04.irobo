@@ -1,4 +1,5 @@
-﻿#menuju beacon
+#map: followLine.map
+#menuju beacon
 east(2)
 north(7)
 east(11)
