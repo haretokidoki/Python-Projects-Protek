@@ -1,4 +1,5 @@
-﻿#ambil beacon
+#map: default.map
+#ambil beacon
 south(2)
 east(2)
 pickUp
