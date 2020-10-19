@@ -1,2 +1,2 @@
-run = "python chapter_04/latihan/latihan05.py"
+run = "python chapter_05/latihan_1/latihan05.py"
 language = "python3"
