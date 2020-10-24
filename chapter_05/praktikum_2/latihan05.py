@@ -1,5 +1,5 @@
 # praktikum 2 nomor 10 // segitiga bintang ajaib //
-kolom = 5
+# kolom = 5
 baris = 5
 
 i = 0
