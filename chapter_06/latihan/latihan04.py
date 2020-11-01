@@ -1,0 +1,12 @@
+from statistik import *
+print("a. 5, 10, 4, 9, 30, 16, 2, 11")
+print("jumlah   : ", str(sum(5,10,4,9,30,16,2,11)))
+print("rata-rata: ", str(average(5,10,4,9,30,16,2,11)))
+print("nilai max: ", str(maks(5,10,4,9,30,16,2,11)))
+print("nilai min: ", str(min(5,10,4,9,30,16,2,11)))
+print()
+print("b. 81, 98, 12, 83, 45, 77, 69, 30, 56")
+print("jumlah   : ", str(sum(81,98,12,83,45,77,69,30,56)))
+print("rata-rata: ", str(average(81,98,12,83,45,77,69,30,56)))
+print("nilai max: ", str(maks(81,98,12,83,45,77,69,30,56)))
+print("nilai min: ", str(min(81,98,12,83,45,77,69,30,56)))
