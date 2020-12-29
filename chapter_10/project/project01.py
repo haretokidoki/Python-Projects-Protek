@@ -25,4 +25,3 @@ def ganjilgenap():
 
 # panggil function ganjil/genap
 ganjilgenap()
-file.close()
